@@ -1,0 +1,3 @@
+world:
+  name: Eat the Rich
+  shortname: ETR
