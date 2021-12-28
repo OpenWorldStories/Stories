@@ -1,3 +1,4 @@
 world:
   name: Eat the Rich
   shortname: ETR
+  start-date: 01:01:2022
